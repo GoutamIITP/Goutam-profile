@@ -4,7 +4,7 @@ body {
     padding: 0;
     margin: 0 auto;
     font-family: sans-serif, Arial, Helvetica, sans-serif, 'Times New Roman', Times, serif, 'Courier New', Courier, monospace, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background: linear-gradient(#040417);
+    background: #040417;
     /* color: white; */
     display: flex;
     flex-direction: column;
